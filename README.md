@@ -1,5 +1,9 @@
 # Real-Time Weather Data Streaming with Kafka and PySpark
 
+![Pipeline](Real_Time_Data_streaming___Diagram.png)
+
+
+
 ## Overview
 This project demonstrates an end-to-end real-time data pipeline:
 1. Fetches weather data from [OpenWeather API](https://openweathermap.org/api).
